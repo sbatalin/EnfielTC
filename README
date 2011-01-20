@@ -1,6 +1,6 @@
 <HTML>
 <BODY>
-<TABLE border=1>
+<TABLE border=1 это проверка>
 	<TR>
 		<TD>Buffer Size</TD>
 		<TD>CRT</TD>
@@ -56,7 +56,7 @@
 		<TD>3</TD>
 		<TD>1</TD>
 	</TR>
-	<TR>
+	<TR и это проверка>
 		<TD>512</TD>
 		<TD>0.686637</TD>
 		<TD>0.428954</TD>
